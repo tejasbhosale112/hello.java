@@ -1,7 +1,7 @@
 class hello
 {
   public Static void main (String args[])
-{
+{gf
   print System.out.println("hello world")
     }
 }
